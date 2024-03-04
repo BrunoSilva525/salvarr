@@ -1,0 +1,61 @@
+body {
+    padding: 0%;
+    background-size: cover;
+    margin: 0;
+}
+header {
+    height: 25%;
+    width: 100%;
+    background-color: black;
+    color: white;
+    position:absolute;
+    margin-top: 0%;
+    padding: 1em;
+    text-align: center;
+}
+
+body {
+    background-color: rgb(255, 255, 255);
+    height: 60%;
+    background-color: lightblue;
+}
+
+
+footer {
+    display: inline-block;
+    height: 15%;
+    width: 100%;
+    background-color: blue;
+    color: white;
+    position: fixed;
+    margin-top: 35%;
+    margin-bottom: 0%;
+    padding: 10px;
+
+}
+
+nav li {
+    display: inline;
+}
+
+nav a {
+    color: white;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+    background-color: blue;
+    margin: 20px;
+}
+
+img {
+    display: block;
+    width: 20%;
+    margin-top: 30%;
+    position: absolute;
+    margin: auto;
+}
+
+.bababo{
+    margin-top: 0%;
+    font-size: 32px;
+}
